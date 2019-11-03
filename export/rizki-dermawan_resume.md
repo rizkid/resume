@@ -15,7 +15,7 @@ Experience
 Aug. 2018 - Today
 :	**Data Engineer II** at [Bukalapak](bukalapak.com)
 
-> Develops and maintain large-scale data processing system for preparing structured and unstructured data for analytic modeling \
+> Develops and maintain large-scale data processing system for analytic modeling \
 > Ensure architecture will support the requirements of bussiness \
 > Recommend ways to improve data reliability, efficiency, and quality \
 > Help BI Architect build scrum team 
