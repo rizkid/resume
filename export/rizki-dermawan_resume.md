@@ -15,6 +15,7 @@ Experience
 Aug. 2018 - Today
 :	**Data Engineer II** at [Bukalapak](bukalapak.com)
 
+> Lead pipeline and dashboard migration \
 > Develops and maintain large-scale data processing system for analytic modeling \
 > Ensure architecture will support the requirements of bussiness \
 > Recommend ways to improve data reliability, efficiency, and quality \
